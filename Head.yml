@@ -1,0 +1,26 @@
+Uniritx-bank: 'Head-office'
+Total Employee: 4
+Employee_1:
+      Employee_Name: 'Vibhor'
+      Position: Head_Of_Department
+      Date_of_birth: 01/10/1900
+      Salary: Rs. 10 lakh
+      Address: Noida
+Employee_2:
+      Employee_Name: 'Saumya'
+      Position: Employee
+      Date_of_birth: 02/09/2000
+      Salary: Rs. 04 lakh
+      Address: Delhi
+Employee_3:
+      Employee_Name: 'Harshita'
+      Position: Employee
+      Date_of_birth: 16/10/2001
+      Salary: Rs. 04 lakh
+      Address: Jhansi
+Employee_4:
+      Employee_Name: 'Shivani'
+      Position: Employee
+      Date_of_birth: 03/08/2000
+      Salary: Rs.05 lakh
+      Address: Noida                  
